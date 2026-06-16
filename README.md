@@ -1,2 +1,2 @@
 # Prabhat-Demo
-Practice repositary for GitHub features
+Practice repositary for GitHub features.
